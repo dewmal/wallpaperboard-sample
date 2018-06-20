@@ -9,12 +9,12 @@
 
     <!-- CONFIG: APPLICATION NAME -->
 
-    <string name="app_name">WallpaperBoard Demo</string>
+    <string name="app_name">Football Mania 2018 - Wallpapers</string>
 
     <!-- CONFIG: DEFAULT THEME -->
 
     <!-- Use dark theme as default theme -->
-    <bool name="use_dark_theme">false</bool>
+    <bool name="use_dark_theme">true</bool>
 
     <!-- CONFIG: MUZEI -->
 
@@ -25,12 +25,12 @@
     <string name="muzei_art_source_desc">Your Art Source Description</string>
 
     <!-- Muzei base color -->
-    <color name="muzei_color">#F44336</color>
+    <color name="muzei_color">#a80a001a</color>
 
     <!-- CONFIG: TOOLBAR -->
 
     <!-- Toolbar title -->
-    <string name="toolbar_title">Wallpaper Board</string>
+    <string name="toolbar_title">Wallpapers</string>
 
     <!-- CONFIG: Wallpapers -->
 
@@ -54,7 +54,7 @@
 
     <!-- Navigation view header text
     * Leave empty if you don't want to show any text -->
-    <string name="navigation_view_header_title">Wallpaper Board</string>
+    <string name="navigation_view_header_title">Football - Wallpapers</string>
 
     <!-- CONFIG: ABOUT -->
 
@@ -73,7 +73,7 @@
     <string name="about_profile_image">https://lh3.googleusercontent.com/-KBI2HdgNtN0/AAAAAAAAAAI/AAAAAAAABpc/icnuAgrjOT4/s256-p-rw-no/photo.jpg</string>
 
     <!-- About title above description -->
-    <string name="about_title">Wallpaper Board</string>
+    <string name="about_title">Football Mania 2018 - Wallpapers</string>
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
@@ -91,18 +91,18 @@
     * ex:
     * <string-array name="about_social_links"></string-array>-->
     <string-array name="about_social_links">
-        <item>https://www.instagram.com/_u/yourusername</item>
-        <item>https://twitter.com/</item>
-        <item>https://www.behance.net/</item>
-        <item>https://plus.google.com/u/1/+yourusername</item>
-        <item>http://github.com/yourusername</item>
-        <item>http://www.yourwebsite.com</item>
-        <item>your@email.com</item>
+        <!--<item>https://www.instagram.com/_u/yourusername</item>-->
+        <!--<item>https://twitter.com/</item>-->
+        <!--<item>https://www.behance.net/</item>-->
+        <!--<item>https://plus.google.com/u/1/+yourusername</item>-->
+        <item>http://github.com/e-green</item>
+        <item>http://www.egreen.io</item>
+        <item>info@egreen.io</item>
     </string-array>
 
     <!-- Contributors dialog
     * Take a look inside values/xml/contributors.xml to add contributors -->
-    <bool name="show_contributors_dialog">true</bool>
+    <bool name="show_contributors_dialog">false</bool>
 
     <!-- CONFIG: DONATE -->
 
